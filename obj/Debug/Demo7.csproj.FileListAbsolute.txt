@@ -29,3 +29,7 @@ C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageEdditAgents.g.cs
 C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageEdditAgents.baml
 C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAddAgents.g.cs
 C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAddAgents.baml
+C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAutoriz.g.cs
+C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAutoriz.baml
+C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAccount.g.cs
+C:\Users\Administrator\source\repos\Demo7\obj\Debug\Pages\PageAccount.baml

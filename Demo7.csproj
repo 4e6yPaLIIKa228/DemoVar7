@@ -125,12 +125,18 @@
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="FraneWind.cs" />
+    <Compile Include="Pages\PageAccount.xaml.cs">
+      <DependentUpon>PageAccount.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\PageAddAgents.xaml.cs">
       <DependentUpon>PageAddAgents.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\PageAgents.xaml.cs">
       <DependentUpon>PageAgents.xaml</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\PageAutoriz.xaml.cs">
+      <DependentUpon>PageAutoriz.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\PageEdditAgents.xaml.cs">
       <DependentUpon>PageEdditAgents.xaml</DependentUpon>
@@ -145,11 +151,19 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\PageAccount.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\PageAddAgents.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Pages\PageAgents.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PageAutoriz.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

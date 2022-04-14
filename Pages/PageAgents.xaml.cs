@@ -116,6 +116,11 @@ namespace Demo7.Pages
             }
         }
 
+        private void btavtoriz_Click(object sender, RoutedEventArgs e)
+        {
+            FraneWind.frmMain.Navigate(new Pages.PageAutoriz());
+        }
+
         public void Load()
         {
             if (ConnectDB.Update == 1)
